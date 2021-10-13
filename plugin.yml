@@ -1,0 +1,10 @@
+main: dragonfire.contentsystem.main.Main
+name: ContentSystem
+version: 1.0
+author: DragonFire 
+
+
+commands:
+   erstellewelt:
+   entfernewelt:
+
